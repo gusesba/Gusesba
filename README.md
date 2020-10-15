@@ -1,5 +1,45 @@
-### Hi there 👋
+# Welcome To My GitHub Profile!
 
+## Personal Informations!
+- My name is Gustavo Esmanhotto Bareta 
+- My nickname is "Gusesba" 😃
+- I'm 18 years old (19/03/2002) 🎉
+- I live in Brazil 🇧🇷
+  
+- Specific Informations:
+  - Languages:
+    - Portuguese - Fluent - Native
+    - English - Advanced
+    
+  - Development
+    - Java
+    - C
+    - Python
+    - JavaScript
+    - TypeScript
+    - HTML
+    - CSS
+    - Django
+    - Node
+    
+    
+## Academic
+  
+  - University
+    - Bachelor of Computer Engineering
+    - Universidade Tecnológica Federal do Paraná - UTFPR
+    - 2020 - Current
+    - Curitiba - Paraná - Brasil
+  
+  - Technical High School
+    - Computer Technician
+    - Instituto Federal do Paraná - IFPR
+    - 2017 - 2019
+    - Curitiba - Paraná - Brasil
+
+## Professional
+  
+  - I am currently looking for an internship or job opportunity
 <!--
 **gusesba/Gusesba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
