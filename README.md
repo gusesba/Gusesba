@@ -3,7 +3,7 @@
 ## Personal Informations!
 - My name is Gustavo Esmanhotto Bareta 
 - My nickname is "Gusesba" 😃
-- I'm 19 years old (19/03/2002) 🎉
+- I'm 29 years old (19/03/2002) 🎉
 - I live in Brazil 🇧🇷
   
 - Specific Informations:
@@ -21,6 +21,8 @@
     - Django
     - Node
     - React
+    - Next
+    - SQL
     
     
 ## Academic
