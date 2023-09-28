@@ -1,58 +1,20 @@
-# Welcome To My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Gustavo Esmanhotto Bareta - Gusesba</h1>
+<h3 align="center">Computer Engineering student at UTFPR in Curitiba, Paraná, Brazil.</h3>
 
-## Personal Informations!
-- My name is Gustavo Esmanhotto Bareta 
-- My nickname is "Gusesba" 😃
-- I'm 20 years old (19/03/2002) 🎉
-- I live in Brazil 🇧🇷
-  
-- Specific Informations:
-  - Languages:
-    - Portuguese - Fluent - Native
-    - English - Advanced
-    
-  - Development
-    - Java
-    - C
-    - Python
-    - JavaScript
-    - HTML
-    - CSS
-    - Django
-    - Node
-    - React
-    - Next
-    - SQL
-    
-    
-## Academic
-  
-  - University
-    - Bachelor of Computer Engineering
-    - Universidade Tecnológica Federal do Paraná - UTFPR
-    - 2020 - Current
-    - Curitiba - Paraná - Brasil
-  
-  - Technical High School
-    - Computer Technician
-    - Instituto Federal do Paraná - IFPR
-    - 2017 - 2019
-    - Curitiba - Paraná - Brasil
+<div align="center">
+  <a href = "mailto:gustavoesmanhotto@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gusesba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--   <a href="https://www.youtube.com/channel/UCLwKFhotdI5ff3-9Q6EpsZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.instagram.com/gusesba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/user" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
 
-## Professional
-  
-  - I am currently looking for an internship or job opportunity
-<!--
-**gusesba/Gusesba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAdamee&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/Lee3007">
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Lee3007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee3007&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+<div>
