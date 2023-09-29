@@ -36,4 +36,6 @@
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img align="center" alt="dotNET" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
+  <img align="center" alt="Angular" height="30" src="https://img.shields.io/badge/Angular-ED8B0?style=for-the-badge&logo=sql&logoColor=white"/>
+  
 </div>
