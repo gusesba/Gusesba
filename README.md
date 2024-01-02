@@ -37,5 +37,7 @@
   <img align="center" alt="dotNET" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
   <img align="center" alt="Angular" height="30" src="https://img.shields.io/badge/Angular-ED8B0?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img align="center" alt="Angular" height="30" src="https://img.shields.io/badge/Vue.js-ED8B0?style=for-the-badge&logo=sql&logoColor=white"/>
+  
   
 </div>
